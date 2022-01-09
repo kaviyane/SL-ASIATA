@@ -1441,7 +1441,7 @@ FROM fusuf/whatsasena:latest
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     #FBAN_GROUP = int(os.environ.get("FBAN_GROUP", False))
-RUN git clone https://github.com/Thisan04/ng19 /root/ng19
+RUN git clone https://github.com/kaviyane/ng19 /root/ng19
 WORKDIR /root/ng19/
     #LYDIA_API_KEY = os.environ.get("LYDIA_API_KEY", None)
     #HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
