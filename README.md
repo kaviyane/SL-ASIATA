@@ -87,7 +87,7 @@ ASIATA ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 �
 පළමු උපාංගයෙන් ඔබට ASIATA බොට් ස්ථාපනය කිරීමට අවශ්‍යයි..`
 
 #### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා ASIATA බොට් deploy කරන්න
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kviyane/SL-ASIATA.)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kviyane/SL-ASIATA)
 
 
 
